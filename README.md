@@ -1,5 +1,5 @@
 # Projeto-Unes-HTML
-Projeto criado somente com HTML5, com a intenção de aprender sobre.
+Projeto criado somente com HTML5, com a intenção de aprender sobre esta linguagem de marcação.
 
 Curso: Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos.
 
